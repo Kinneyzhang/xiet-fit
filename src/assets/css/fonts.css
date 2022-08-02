@@ -1,0 +1,8 @@
+p {
+    font-size: 30px;
+}
+
+@font-face {
+    font-family: jinkaiFont;
+    src: url("../fonts/jinkai.ttf") format("TrueType");
+}
